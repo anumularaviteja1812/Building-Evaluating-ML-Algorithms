@@ -1,13 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_sq_Lr-X)
-# Project 1
-
-This is an **individual assignment**.
-
-## Code Implementation & Technical Report
-
-The final deliverables include a 4-page IEEE-format report, code implementation and a detailed GitHub readme file.
-
-Project 1 is due October 11 @ 11:59 PM. Find the complete rubric in the Canvas assignment.
+# Project- Building & Evaluating ML Algorithms
 
 ## Dataset - Supermarket Sales
 
